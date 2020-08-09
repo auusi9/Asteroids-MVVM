@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 00da98cf2cf41f244b375655b77807f8
+  m_SerializeEntries:
+  - m_GUID: 032aa6fc52c88fb48afaac82828b9eaf
+    m_Address: LifeUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0b0cd2c086125cd48925582fa68fdc78
+    m_Address: Assets/Animation/Spaceship/Dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7400000, guid: 0b0cd2c086125cd48925582fa68fdc78, type: 2}
+    m_TargetAsset: {fileID: 7400000, guid: 0b0cd2c086125cd48925582fa68fdc78, type: 2}
+  - m_GUID: 18513fc5379e0a147951f3ecba5bd7f0
+    m_Address: SmallAsteroid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b43009f82a04124b91c07d891f922c0
+    m_Address: Spaceship
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2cda990e2423bbf4892e6590ba056729
+    m_Address: MainScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+  - m_GUID: 3c13d864b9359734d9c493bee6cb6b4d
+    m_Address: Assets/Animation/Spaceship/Spaceship.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9100000, guid: 3c13d864b9359734d9c493bee6cb6b4d, type: 2}
+    m_TargetAsset: {fileID: 9100000, guid: 3c13d864b9359734d9c493bee6cb6b4d, type: 2}
+  - m_GUID: 614184328d8c114458ffa4097a1585e3
+    m_Address: Assets/Animation/Spaceship/Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7400000, guid: 614184328d8c114458ffa4097a1585e3, type: 2}
+    m_TargetAsset: {fileID: 7400000, guid: 614184328d8c114458ffa4097a1585e3, type: 2}
+  - m_GUID: 7563a33cf7e1b6f489a1485c866ba6dd
+    m_Address: Explosion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7774a0d5f217f42479a06549d7056ccb
+    m_Address: GameOver
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9982579c271ac164b8e4688f0a221bad
+    m_Address: HighScoreElement
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a1fa343567eab59418d02578498d7d86
+    m_Address: Assets/Sprites/Sprites.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4343727234628468602, guid: a1fa343567eab59418d02578498d7d86,
+      type: 2}
+    m_TargetAsset: {fileID: 4343727234628468602, guid: a1fa343567eab59418d02578498d7d86,
+      type: 2}
+  - m_GUID: a5f0a98b7f8aa7947b5333508b11fa29
+    m_Address: MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: a5f0a98b7f8aa7947b5333508b11fa29, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: a5f0a98b7f8aa7947b5333508b11fa29, type: 3}
+  - m_GUID: c1d63f723ccef534cb6fdb76b50a3205
+    m_Address: BigAsteroid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4071839789769711376, guid: c1d63f723ccef534cb6fdb76b50a3205,
+      type: 3}
+    m_TargetAsset: {fileID: 4071839789769711376, guid: c1d63f723ccef534cb6fdb76b50a3205,
+      type: 3}
+  - m_GUID: d4c9d2163da78574ab7b367d6c02b01c
+    m_Address: PlayerProjectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d94721569afa1e14a82669ec3c6c0761
+    m_Address: EnemyProjectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e894e6d2ee5dd9740a5634ed270b8462
+    m_Address: SmallSaucer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5535388068756260833, guid: e894e6d2ee5dd9740a5634ed270b8462,
+      type: 3}
+    m_TargetAsset: {fileID: 5535388068756260833, guid: e894e6d2ee5dd9740a5634ed270b8462,
+      type: 3}
+  - m_GUID: eadda5e7d63a5574e979b234dfc86b0f
+    m_Address: BigSaucer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1724804401181232988, guid: eadda5e7d63a5574e979b234dfc86b0f,
+      type: 3}
+    m_TargetAsset: {fileID: 1724804401181232988, guid: eadda5e7d63a5574e979b234dfc86b0f,
+      type: 3}
+  - m_GUID: f68c1cce46546b94d9aa03b256e9cd4f
+    m_Address: Assets/Animation/Spaceship/Respawn.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7400000, guid: f68c1cce46546b94d9aa03b256e9cd4f, type: 2}
+    m_TargetAsset: {fileID: 7400000, guid: f68c1cce46546b94d9aa03b256e9cd4f, type: 2}
+  - m_GUID: fec0fa5665cf9d042a2d6000c5cca884
+    m_Address: Assets/Materials/Explosion.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: fec0fa5665cf9d042a2d6000c5cca884, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: fec0fa5665cf9d042a2d6000c5cca884, type: 2}
+  - m_GUID: ff87cf5bb1abac04fbb3c69772540f33
+    m_Address: MediumAsteroid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d09f1751cbf4a984985935d9f5c26613, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bacb2fe01e418ba42a437a32d020912c, type: 2}
+    - {fileID: 11400000, guid: 9f0b74fe1d951ad49be994c0a23fec29, type: 2}

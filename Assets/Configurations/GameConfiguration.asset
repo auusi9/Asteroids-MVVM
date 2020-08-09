@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0e293873e344d7b32297e827467e77, type: 3}
+  m_Name: GameConfiguration
+  m_EditorClassIdentifier: 
+  _bigAsteroidConfiguration:
+    _destroyScore: 20
+    _velocity: 6
+  _mediumAsteroidConfiguration:
+    _destroyScore: 50
+    _velocity: 10
+  _smallAsteroidConfiguration:
+    _destroyScore: 100
+    _velocity: 15
+  _bigSaucerConfiguration:
+    _destroyScore: 200
+    _velocity: 20
+    _shootInterval: 1
+    _projectileVelocity: 40
+  _smallSaucerConfiguration:
+    _destroyScore: 1000
+    _velocity: 40
+    _shootInterval: 0.5
+    _projectileVelocity: 60
+  _asteroidSpawnDistance: 30

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: beebbe87aebce9341a63dd62f0a0336a, type: 3}
+    - {fileID: 2800000, guid: cc0b7ca63d548ff49913d3aa785576d4, type: 3}
+    - {fileID: 2800000, guid: c68b7e92b4433ea4d8e117581fb51302, type: 3}
+    - {fileID: 2800000, guid: 1fd4e991f7553d34da1a93c6ba033e96, type: 3}
+    - {fileID: 2800000, guid: f3e73880f798a194b816eacb711c3442, type: 3}
+    - {fileID: 2800000, guid: c8dc761e07452b444a570f95e8feaf28, type: 3}
+    - {fileID: 2800000, guid: c31e2db5be553314baa21a40b411d978, type: 3}
+    - {fileID: 2800000, guid: 4521fb6e1b925b14b83385e847e9d277, type: 3}
+    - {fileID: 2800000, guid: 4bb820a449c48e94cbe39184975dbbff, type: 3}
+    - {fileID: 2800000, guid: ff7e269ec984c38489baa30137ef4eb2, type: 3}
+    totalSpriteSurfaceArea: 2038758
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f3e73880f798a194b816eacb711c3442, type: 3}
+  - {fileID: 21300000, guid: 1fd4e991f7553d34da1a93c6ba033e96, type: 3}
+  - {fileID: 21300000, guid: c68b7e92b4433ea4d8e117581fb51302, type: 3}
+  - {fileID: 21300000, guid: 4bb820a449c48e94cbe39184975dbbff, type: 3}
+  - {fileID: 21300000, guid: c31e2db5be553314baa21a40b411d978, type: 3}
+  - {fileID: 21300000, guid: cc0b7ca63d548ff49913d3aa785576d4, type: 3}
+  - {fileID: 21300000, guid: beebbe87aebce9341a63dd62f0a0336a, type: 3}
+  - {fileID: 21300000, guid: c8dc761e07452b444a570f95e8feaf28, type: 3}
+  - {fileID: 21300000, guid: 4521fb6e1b925b14b83385e847e9d277, type: 3}
+  - {fileID: 21300000, guid: ff7e269ec984c38489baa30137ef4eb2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Square
+  - bullet-pngrepo-com
+  - BigSaucer
+  - EmptyCircle
+  - RocketIcon
+  - Asteroids
+  - ArrowUI
+  - SpaceShip
+  - plain-square
+  - Circle
+  m_Tag: Sprites
+  m_IsVariant: 0
